@@ -1,0 +1,11 @@
+torch>=2.0
+torchvision>=0.15
+ftfy
+regex
+tqdm
+opencv-python
+numpy
+scikit-learn
+matplotlib
+git+https://github.com/openai/CLIP.git
+open_clip_torch
