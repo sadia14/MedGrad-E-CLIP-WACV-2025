@@ -11,14 +11,14 @@ MedGrad-ECLIP extends Grad E-CLIP by introducing an **entropy-weighted mechanism
 
 ## Repository Contents
 
-- **`notebooks/Training_clip_MedGrad_ECLIP.ipynb`** – Training notebook. Fine-tunes CLIP on a custom image–text dataset with augmentation and logs metrics (accuracy, precision, recall, F1, sensitivity, specificity, CLIP score).
-- **`notebooks/MedGrad_ECLIP_Inference_Code.ipynb`** – Inference and visualization notebook. Loads a trained CLIP model and produces Grad-ECLIP, MedGrad-ECLIP and Grad-CAM heatmaps for a given image and set of text prompts.
+- **`Training_clip_MedGrad_ECLIP.ipynb`** – Training notebook. Fine-tunes CLIP on a custom image–text dataset with augmentation and logs metrics (accuracy, precision, recall, F1, sensitivity, specificity, CLIP score).
+- **`MedGrad_ECLIP_Inference_Code.ipynb`** – Inference and visualization notebook. Loads a trained CLIP model and produces Grad-ECLIP, MedGrad-ECLIP and Grad-CAM heatmaps for a given image and set of text prompts.
 - **`requirements.txt`** – Python dependencies.
 - **`MedGrad E-CLIP.pdf`** – The paper.
 
 Optional:
-- `examples/sample_image.bmp` – Example dermoscopic image.
-- `examples/prompts.txt` – Example text prompts (diagnostic criteria).
+- `sample_image.bmp` – Example dermoscopic image.
+- `prompts.txt` – Example text prompts (diagnostic criteria).
 
 ---
 
