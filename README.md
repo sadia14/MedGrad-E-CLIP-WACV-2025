@@ -70,6 +70,9 @@ Prepare:
 Run the notebook cells to generate Grad-ECLIP, MedGrad-ECLIP and Grad-CAM visualizations for each prompt, replicating the figures in the paper.
 
 ---
+## Pipeline Overview
+
+![MedGrad-ECLIP Pipeline](assets/pipeline.png)
 
 ## Datasets
 
