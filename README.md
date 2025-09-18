@@ -15,7 +15,7 @@ MedGrad-ECLIP fine-tunes OpenAI’s CLIP (ViT-B/16) on dermoscopic skin lesion i
 - **`notebooks/Training_clip_MedGrad_ECLIP.ipynb`** – Training notebook. Fine-tunes CLIP on a custom image–text dataset with augmentation and logs metrics (accuracy, precision, recall, F1, sensitivity, specificity, CLIP score).
 - **`notebooks/MedGrad_ECLIP_Inference_Code.ipynb`** – Inference and visualization notebook. Loads a trained CLIP model and produces Grad-ECLIP, MedGrad-ECLIP and Grad-CAM heatmaps for a given image and set of text prompts.
 - **`requirements.txt`** – Python dependencies.
-- **`paper/MedGrad_ECLIP.pdf`** – The paper.
+- **`MedGrad E-CLIP.pdf`** – The paper.
 
 Optional:
 - `examples/sample_image.bmp` – Example dermoscopic image.
