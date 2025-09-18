@@ -4,9 +4,8 @@ This repository contains the notebooks and resources accompanying our paper:
 
 > **“MedGrad E-CLIP: Enhancing Trust and Transparency in AI-Driven Skin Lesion Diagnosis”**  
 > Sadia Kamal & Tim Oates, University of Maryland Baltimore County  
-> [arXiv:2501.06887](https://arxiv.org/abs/2501.06887)
 
-MedGrad-ECLIP extends Grad E-CLIP by introducing an **entropy-weighted mechanism** … aligning visual and textual diagnostic descriptions ([arXiv:2501.06887](https://arxiv.org/abs/2501.06887)).
+MedGrad-ECLIP extends Grad E-CLIP by introducing an **entropy-weighted mechanism** to capture fine-grained features in dermoscopic images. Instead of focusing only on high-gradient areas, MedGrad-ECLIP computes **local entropy** to identify subtle lesion features, distributing attention more evenly and aligning visual and textual diagnostic descriptions ([arXiv:2501.06887](https://arxiv.org/abs/2501.06887)).
 
 ---
 
