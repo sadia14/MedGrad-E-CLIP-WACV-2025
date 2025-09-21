@@ -99,11 +99,7 @@ If you use this code, please cite:
 
 ---
 
-## License
 
-Specify your license (MIT, Apache-2.0, etc.) here.
-
----
 
 ## Contact
 
